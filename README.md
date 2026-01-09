@@ -3,7 +3,7 @@
 I’m <b>Sebastian Ingco</b>, an IT student currently studying at <b>Our Lady of Fatima University – Antipolo</b>.
 
 I enjoy working on projects that combine <b>web development</b>, <b>databases</b>, and <b>system automation</b>. 
-I’m also interested in learning <b>Dart</b> and exploring <b>Flutter</b> for cross-platform mobile development.
+I recently learned <b>Dart</b> and is now exploring <b>Flutter</b> for cross-platform mobile development.
 
 Currently, I’m focusing on learning <b>React</b>, applying it to small projects to better understand component-based development, 
 state management, and how modern front-end applications interact with databases and APIs.
