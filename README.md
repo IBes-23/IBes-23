@@ -13,7 +13,7 @@ state management, and how modern front-end applications interact with databases 
 <h3>Tools and Techs</h3>
 
 - JavaScript, PHP, HTML, CSS
-- Python, C++, Java, MicroPython
+- Python, C++, Java, MicroPython, Dart
 - PostgreSQL, MySQL, Firebase
 - Git & GitHub, VS Code, Android Studio, XAMPP, Firebase Console, WordPress
 
