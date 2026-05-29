@@ -21,8 +21,8 @@ state management, and how modern front-end applications interact with databases 
 
 <h3>A bit about me</h3>
 
-- 🐶 I have one dog
-- 🍬 I like sweets more than other things
+- 🐶 I have two dog
+- 🍬 I prefer texting rather than calling
 - 📚 I prefer reading over watching (Manga/Comics > Anime)
 
 
