@@ -3,7 +3,7 @@
 I’m <b>Sebastian Ingco</b>, an IT student currently studying at <b>Our Lady of Fatima University – Antipolo</b>.
 
 I enjoy working on projects that combine <b>web development</b>, <b>databases</b>, and <b>system automation</b>. 
-I recently learned <b>Dart</b> and is now exploring <b>Flutter</b> for cross-platform mobile development.
+I recently learned <b>Swift</b> and is now exploring <b>React Native</b> for cross-platform mobile development.
 
 Currently, I’m focusing on learning <b>React</b>, applying it to small projects to better understand component-based development, 
 state management, and how modern front-end applications interact with databases and APIs.
@@ -13,15 +13,15 @@ state management, and how modern front-end applications interact with databases 
 <h3>Tools and Techs</h3>
 
 - JavaScript, PHP, HTML, CSS
-- Python, C++, Java, MicroPython, Dart
+- Python, C++, Java, MicroPython, Dart, Kotlin, Swift
 - PostgreSQL, MySQL, Firebase
-- Git & GitHub, VS Code, Android Studio, XAMPP, Firebase Console, WordPress
+- Git & GitHub, VS Code, Android Studio, XCode, XAMPP, Firebase Console, WordPress
 
 <hr></hr>
 
 <h3>A bit about me</h3>
 
-- 🐶 I have two dog
+- 🐶 I have two dogs
 - 🍬 I prefer texting rather than calling
 - 📚 I prefer reading over watching (Manga/Comics > Anime)
 
