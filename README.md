@@ -1,6 +1,6 @@
 <h3>Hellooo!👋👋</h3>
 
-I’m <b>Sebastian Ingco</b>, an IT student currently studying at <b>Our Lady of Fatima University – Antipolo</b>.
+I’m <b>Sebastian Ingco</b>, an IT Graduate at <b>Our Lady of Fatima University – Antipolo</b>.
 
 I enjoy working on projects that combine <b>web development</b>, <b>databases</b>, and <b>system automation</b>. 
 I recently learned <b>Swift</b> and is now exploring <b>React Native</b> for cross-platform mobile development.
